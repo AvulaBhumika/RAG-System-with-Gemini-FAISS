@@ -2,6 +2,9 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system that combines Google's Gemini AI with efficient vector search to create an intelligent document Q&A system.
 
+<img width="868" height="808" alt="image" src="https://github.com/user-attachments/assets/414e0fad-8925-416d-bd0b-aef26edf8c68" />
+
+
 ##  Overview
 
 This RAG system allows you to upload PDF and DOCX documents and ask natural language questions about their content. It uses state-of-the-art embedding models for semantic search and Google's Gemini for generating contextually accurate answers.
